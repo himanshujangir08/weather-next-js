@@ -1,3 +1,4 @@
+<img width="1120" alt="Screenshot 2023-11-18 205808" src="https://github.com/himanshujangir08/weather-next-js/assets/112869700/b251718b-7585-4f18-9f38-d9628fdd263e">
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
